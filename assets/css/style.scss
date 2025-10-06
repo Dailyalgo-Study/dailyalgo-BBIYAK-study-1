@@ -1,0 +1,22 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* H1~H3 공통 배경/여백/모서리 */
+h1 {
+    background-color: #BBCEFA;      /* 원하는 색 */
+    padding: .15em .4em;
+    border-radius: .3rem;
+}
+
+h2 {
+    background-color: #D1DEFB;      /* 원하는 색 */
+    padding: .15em .4em;
+    border-radius: .3rem;
+}
+
+h3 {
+    background-color: #E8EFFD;      /* 원하는 색 */
+    padding: .15em .4em;
+    border-radius: .3rem;
+}
