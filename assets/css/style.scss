@@ -2,6 +2,27 @@
 ---
 @import "{{ site.theme }}";
 
+/* 콘텐츠 너비 제한 및 반응형 패딩 */
+.container, .wrapper, main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem 3rem;
+}
+
+/* 반응형: 태블릿 */
+@media (max-width: 768px) {
+    .container, .wrapper, main {
+        padding: 1rem 2rem;
+    }
+}
+
+/* 반응형: 모바일 */
+@media (max-width: 480px) {
+    .container, .wrapper, main {
+        padding: 1rem 1rem;
+    }
+}
+
 /* H1~H3 공통 배경/여백/모서리 */
 h1 {
     background-color: #BBCEFA;      /* 원하는 색 */
