@@ -1,0 +1,67 @@
+### Python ###
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Java ###
+# Compiled class files
+*.class
+
+### C++ ###
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.icloud
+
+### Windows ###
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+### VSCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+### Cursor ###
+.cursor/
+.cursorrules
+
+### IntelliJ IDEA / PyCharm ###
+.idea/
+*.iml
+*.iws
+out/
