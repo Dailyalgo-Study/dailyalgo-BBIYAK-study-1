@@ -1,5 +1,7 @@
 # 알고리즘 삐약이 스터디 1기 🐣
 
+### [노션 강의자료 바로가기](https://useful-pantry-930.notion.site/28b611ac3a0080b8b605d0b28338e7ed)
+
 ## 👨‍💻 주차별 활동 내용
 
 <table>
