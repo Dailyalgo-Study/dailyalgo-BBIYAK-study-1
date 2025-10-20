@@ -17,6 +17,8 @@ class Solution {
             if (entry.getValue() > maxFreq) {
                 maxFreq = entry.getValue();
                 result = entry.getKey();
+            } else if (entry.getValue() == maxFreq && entry.getKey() < result ) {
+                result = entry.getKey();
             }
         }
         
