@@ -10,5 +10,7 @@ def solution(numbers):
         if count > max_freq:
             max_freq = count
             result = num
+        elif count == max_freq and num < result:
+            result = num
 
     return result
