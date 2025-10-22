@@ -17,13 +17,13 @@
 - 📚 [활동 내용](./활동내용/1주차)
 - 👥 **참여 인원**
   - 김도이 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/3) ✅
-  - 양정규 : 출석 ✅
-  - 우희제 : 출석 ✅
+  - 양정규 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/10) ✅
+  - 우희제 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/8) ✅
   - 조소정 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/4) ✅
-  - 조해민 : 출석 ✅
-  - 표자은 : 출석 ✅
+  - 조해민 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/6) ✅
+  - 표자은 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/9) ✅
   - 하명관 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/5) ✅
-  - 현지윤 : 출석 ✅
+  - 현지윤 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/7) ✅
 
 </td>
 </tr>
@@ -37,7 +37,7 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/2주차)
 - 👥 **참여 인원**
 
 </td>
@@ -52,7 +52,7 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/3주차)
 - 👥 **참여 인원**
 
 </td>
@@ -67,7 +67,7 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/4주차)
 - 👥 **참여 인원**
 
 </td>
@@ -82,7 +82,7 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/5주차)
 - 👥 **참여 인원**
 
 </td>
