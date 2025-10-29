@@ -12,12 +12,12 @@ string solution(vector<string> participant, vector<string> completion)
     sort(completion.begin(), completion.end());
 
     // 2. 두 목록을 완주자 수 만큼 비교한다.
-    for (int i = 0; i < completion.size(); ++i)
+    for (int Index = 0; Index < completion.size(); ++Index)
     {
         // 만약 다른 사람이면 해당 사람이 미완주자
-        if (participant[i] != completion[i])
+        if (participant[Index] != completion[Index])
         {
-            return participant[i];
+            return participant[Index];
         }
     }
 
