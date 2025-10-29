@@ -4,12 +4,15 @@
 - [데일리알고 - 문자열 정렬](https://dailyalgo.kr/ko/problems/182)
 
 ## 2. 소요 시간
-- 
+- 2m
 
 ## 3. 풀이 설명
 ### 💡 아이디어 도출 과정
+- soreted, revers=True를 사용해 풀어야겠다.
+- 저번 스터디에 파이썬은 문자열도 Reverse가 가능하다고 함
 
 ### ⚙️ 구현 로직의 동작 과정
+sorted함수에 words와 reverse+True를 넣고 리턴
 
 ### ✅ 엣지 케이스에 대한 고려 사항
 
