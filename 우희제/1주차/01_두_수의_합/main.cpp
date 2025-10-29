@@ -18,19 +18,19 @@ int solution(vector<int> numbers, int m)
                 continue;*/
 
             // 두 수의 합을 계산한다.
-            int SumNumber = numbers[idx1] + numbers[idx2];
+            int sumnumber = numbers[idx1] + numbers[idx2];
 
             // m을 넘는지 확인한다.
-            if (m < SumNumber)
+            if (m < sumnumber)
                 continue;
 
             // m을 넘지 않으면 "정답후보군"에 저장해둔다.
             //printf("%d, %d, 두 수의 합 : %d", numbers[idx1], numbers[idx2], SumNumber);
             //printf("\n");
 
-            if (answer < SumNumber)
+            if (answer < sumnumber)
             {
-                answer = SumNumber;
+                answer = sumnumber;
             }
 
         }
