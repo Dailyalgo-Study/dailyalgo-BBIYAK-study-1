@@ -4,12 +4,19 @@
 - [데일리알고 - 슬라이딩 윈도우 2](https://dailyalgo.kr/ko/problems/203)
 
 ## 2. 소요 시간
-- 
+- 10분
 
 ## 3. 풀이 설명
 ### 💡 아이디어 도출 과정
+- 슬라이딩 윈도우를 사용해서 window의 구간만큼 더한 값을 answer에 append해준다.
 
 ### ⚙️ 구현 로직의 동작 과정
+- numbers 길의 변수 초기화
+- (numbers의 길이) - (window 크기) + 1
+  - range(n,m)은 m값을 포함시키지 않기 때문에 +1을 해준다. n이상 m미만
+- answer에 추가할 pre_answer초기화
+- 다시 for문을 돌면서 각 구간의 값을 더한다.
+- answer에 넣는다.
 
 ### ✅ 엣지 케이스에 대한 고려 사항
 
