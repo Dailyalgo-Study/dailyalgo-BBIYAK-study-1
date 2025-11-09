@@ -16,7 +16,14 @@
 
 - 📚 [활동 내용](./활동내용/1주차)
 - 👥 **참여 인원**
-  - 홍길동 : [과제 제출](./홍길동(예시)/1주차) ✅
+  - 김도이 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/3) ✅
+  - 양정규 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/10) ✅
+  - 우희제 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/8) ✅
+  - 조소정 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/4) ✅
+  - 조해민 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/6) ✅
+  - 표자은 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/9) ✅
+  - 하명관 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/5) ✅
+  - 현지윤 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/7) ✅
 
 </td>
 </tr>
@@ -30,9 +37,16 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/2주차)
 - 👥 **참여 인원**
-
+  - 김도이 : 출석 ✅ | 과제 제출 ❌
+  - 양정규 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/14) ✅
+  - 우희제 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/15) ✅
+  - 조소정 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/11) ✅
+  - 조해민 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/13) ✅
+  - 표자은 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/12) ✅
+  - 하명관 : 출석 ✅ | 과제 제출 ❌
+  - 현지윤 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/7) ✅
 </td>
 </tr>
 
@@ -45,8 +59,16 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/3주차)
 - 👥 **참여 인원**
+  - 김도이 : 출석 ❌ | 과제 제출 ❌
+  - 양정규 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/17) ✅
+  - 우희제 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/21) ✅
+  - 조소정 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/19) ✅
+  - 조해민 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/16) ✅
+  - 표자은 : 출석 ✅ | 과제 제출 ❌
+  - 하명관 : 출석 ❌ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/18) ⚠️
+  - 현지윤 : 출석 ✅ | [과제 제출](https://github.com/Dailyalgo-Study/dailyalgo-BBIYAK-study-1/pull/20) ✅
 
 </td>
 </tr>
@@ -55,12 +77,20 @@
 <td align="center" width="200">
 
 ### 📅 4주차
-**11월 5일**
+**11월 05일**
+  - 김도이 : 출석 ✅ | 
+  - 양정규 : 출석 ✅ | 
+  - 우희제 : 출석 ✅ | 
+  - 조소정 : 출석 ✅ | 
+  - 조해민 : 출석 ✅ | 
+  - 표자은 : 출석 ✅ | 
+  - 하명관 : 출석 ✅ | 
+  - 현지윤 : 출석 ✅ | 
 
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/4주차)
 - 👥 **참여 인원**
 
 </td>
@@ -75,7 +105,7 @@
 </td>
 <td width="600">
 
-- 📚 활동 내용
+- 📚 [활동 내용](./활동내용/5주차)
 - 👥 **참여 인원**
 
 </td>
@@ -86,7 +116,7 @@
 ## ⏳ 운영 기간 및 일정
 - `기간`: **10월 15일(수) ~ 11월 12일(수), 총 5주간**
 - `일정`: **매주 수요일 13:00 ~ 18:00**
-- `세부 일정`: 10/15, 10/22, 10/29, 11/5, 11/12
+- `세부 일정`: 10/15, 10/22, 10/29, 11/05, 11/12
 
 
 ## 🏠 모임 장소

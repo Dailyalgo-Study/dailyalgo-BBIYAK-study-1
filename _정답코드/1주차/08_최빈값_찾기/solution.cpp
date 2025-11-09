@@ -11,10 +11,12 @@ int solution(vector<int> numbers) {
     }
     
     int maxfreq = 0, result = 0;
-    for (auto& pair : freq) {
-        if (pair.second > maxfreq) {
-            maxfreq = pair.second;
-            result = pair.first;
+    for (auto& [k, v] : freq) {
+        if (v > maxfreq) {
+            maxfreq = v;
+            result = k;
+        } else if (v == maxfreq && result > k) {
+            result = k;
         }
     }
     return result;
