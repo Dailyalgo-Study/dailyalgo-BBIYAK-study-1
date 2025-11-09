@@ -65,3 +65,7 @@ $RECYCLE.BIN/
 *.iml
 *.iws
 out/
+
+### Visual Studio ###
+.vs/
+**/.vs/

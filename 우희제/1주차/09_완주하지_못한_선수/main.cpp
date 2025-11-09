@@ -4,36 +4,36 @@
 
 using namespace std;
 
-// µÎ¹øÂ° ½Ãµµ
+// ë‘ë²ˆì§¸ ì‹œë„
 string solution(vector<string> participant, vector<string> completion)
 {
-    // 1. Âü°¡ ¸ñ·Ï°ú ¿ÏÁÖ ¸ñ·ÏÀ» °°Àº ¼ø¼­·Î Á¤·ÄÇÑ´Ù.
+    // 1. ì°¸ê°€ ëª©ë¡ê³¼ ì™„ì£¼ ëª©ë¡ì„ ê°™ì€ ìˆœì„œë¡œ ì •ë ¬í•œë‹¤.
     sort(participant.begin(), participant.end());
     sort(completion.begin(), completion.end());
 
-    // 2. µÎ ¸ñ·ÏÀ» ¿ÏÁÖÀÚ ¼ö ¸¸Å­ ºñ±³ÇÑ´Ù.
+    // 2. ë‘ ëª©ë¡ì„ ì™„ì£¼ì ìˆ˜ ë§Œí¼ ë¹„êµí•œë‹¤.
     for (int i = 0; i < completion.size(); ++i)
     {
-        // ¸¸¾à ´Ù¸¥ »ç¶÷ÀÌ¸é ÇØ´ç »ç¶÷ÀÌ ¹Ì¿ÏÁÖÀÚ
+        // ë§Œì•½ ë‹¤ë¥¸ ì‚¬ëŒì´ë©´ í•´ë‹¹ ì‚¬ëŒì´ ë¯¸ì™„ì£¼ì
         if (participant[i] != completion[i])
         {
             return participant[i];
         }
     }
 
-    // 3. ¸ğµÎ ÀÏÄ¡ÇÑ´Ù¸é ¸¶Áö¸· Âü°¡ÀÚ°¡ ¹Ì¿ÏÁÖÀÚÀÌ¹Ç·Î ¸¶Áö¸· ¿ä¼Ò ¹İÈ¯ÇÑ´Ù.
+    // 3. ëª¨ë‘ ì¼ì¹˜í•œë‹¤ë©´ ë§ˆì§€ë§‰ ì°¸ê°€ìê°€ ë¯¸ì™„ì£¼ìì´ë¯€ë¡œ ë§ˆì§€ë§‰ ìš”ì†Œ ë°˜í™˜í•œë‹¤.
     return participant.back();
 }
 
 
 
 
-// Ã¹¹øÂ° ½Ãµµ(Áßº¹ ÀÌ¸§À» µÑ ´Ù Á¦°ÅÇÏ¿© ÀÎµ¦½º ²¿¿©¹ö¸².)
+// ì²«ë²ˆì§¸ ì‹œë„(ì¤‘ë³µ ì´ë¦„ì„ ë‘˜ ë‹¤ ì œê±°í•˜ì—¬ ì¸ë±ìŠ¤ ê¼¬ì—¬ë²„ë¦¼.)
 /*string solution(vector<string> participant, vector<string> completion)
 {
     string answer = "";
-    // 1. ¸¶¶óÅæ Âü°¡ÀÚ ¸ñ·Ï(completion)°ú ¿ÏÁÖÇÑ »ç¶÷ ¸ñ·Ï(completion)¿¡¼­ °°Àº »ç¶÷ÀÌ ÀÖ´Ù¸é Á¦°ÅÇÑ´Ù.
-    // 2. Á¦°Å ÈÄ ³²Àº ÀÎµ¦½º 0ÀÇ °ªÀ» ¹İÈ¯ÇÑ´Ù.
+    // 1. ë§ˆë¼í†¤ ì°¸ê°€ì ëª©ë¡(completion)ê³¼ ì™„ì£¼í•œ ì‚¬ëŒ ëª©ë¡(completion)ì—ì„œ ê°™ì€ ì‚¬ëŒì´ ìˆë‹¤ë©´ ì œê±°í•œë‹¤.
+    // 2. ì œê±° í›„ ë‚¨ì€ ì¸ë±ìŠ¤ 0ì˜ ê°’ì„ ë°˜í™˜í•œë‹¤.
     int PSize = participant.size();
     int CSize = completion.size();
 
@@ -43,7 +43,7 @@ string solution(vector<string> participant, vector<string> completion)
         {
             if (participant[PIndex] == completion[CIndex])
             {
-                // ÀÏÄ¡ ÇÏ´Â »ç¶÷ÀÌ ÀÖ´Ù¸é Á¦°Å
+                // ì¼ì¹˜ í•˜ëŠ” ì‚¬ëŒì´ ìˆë‹¤ë©´ ì œê±°
                 participant.erase(participant.begin() + PIndex);
                 break;
             }
